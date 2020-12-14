@@ -8,7 +8,7 @@ namespace gazebo
   {
     public: WorldPluginMyRobot(): WorldPlugin()
 	{
-	  printf("Welcome to Udacity World\n");
+	  printf("Ayomide Yusuf\n");
 	 
 	}
 
